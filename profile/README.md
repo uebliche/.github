@@ -6,6 +6,9 @@ Open source projects for the uebliche network.
 
 ### Client
 - Totem - https://github.com/uebliche/totem
+- Motion - https://github.com/uebliche/motion
+- Am I Secure - https://github.com/uebliche/am-i-secure
+- Doze - https://github.com/uebliche/doze
 - Polar Converter - https://github.com/uebliche/PolarConverter
 - MIDI - https://github.com/uebliche/midi
 - Build.moe Mod - https://github.com/uebliche/build-moe-mod
