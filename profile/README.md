@@ -21,7 +21,7 @@ Open source projects for the uebliche network.
 - SpawnLite - https://github.com/uebliche/spawnlite
 
 ### Web and Apps
-- Launcher - https://github.com/FrederikHeinrich/launcher
+- Launcher - https://github.com/uebliche/launcher
 - Build.moe App - https://github.com/uebliche/build-moe-app
 - Build.moe Web - https://github.com/uebliche/build-moe-web
 - mcmeta Viewer - https://github.com/uebliche/mcmeta
